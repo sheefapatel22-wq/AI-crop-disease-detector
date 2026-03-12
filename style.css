@@ -1,0 +1,25 @@
+body.bg{
+ background:linear-gradient(120deg,#0f2027,#203a43,#2c5364);
+ color:white;
+ font-family:'Segoe UI';
+}
+
+.title{
+ font-weight:700;
+ letter-spacing:1px;
+}
+
+.subtitle{opacity:0.85}
+
+.upload-card{
+ padding:40px;
+ border-radius:20px;
+ background:white;
+ color:black;
+ max-width:500px;
+ margin:auto;
+}
+
+.card{
+ border-radius:18px;
+}
